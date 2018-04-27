@@ -1,7 +1,7 @@
 # Peleia
 Peleia is a board game freely adapted from [Stratego](https://en.wikipedia.org/wiki/Stratego).    
 
-## What does the word 'Peleia' means?   
+## What does the word 'Peleia' mean?   
 From Spanish: _[n]: fight; struggle_ .    
 
 It's also a word used in Brazil, rather in the south of the country, from where the creators come :-)    
